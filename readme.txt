@@ -1,0 +1,1 @@
+This is my landing page for the Odin Project where I will be creating a page using HTML and CSS, trying to align all items properly, essentially starting from scratch with nothing but an image of what it's supposed to look like.
